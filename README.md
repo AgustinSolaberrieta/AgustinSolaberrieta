@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **agustinasolaberrieta08@gmail.com**
 
-- 📄 Know about my experiences **file:///C:/Users/USUARIO/Downloads/AGUSTINA%20SOLABERRIETA.pdf](file:///C:/Users/USUARIO/Downloads/AGUSTINA%20SOLABERRIETA.pdf**
+
 ## Professional Goals
 
 My aim is to continue growing as a Frontend Web Developer, contributing to challenging projects and expanding my technical skills. I strive to stay updated on the latest trends in Frontend technologies to create exceptional user experiences.
