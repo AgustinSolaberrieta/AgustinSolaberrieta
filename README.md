@@ -6,7 +6,8 @@
 
 - 📫 How to reach me **agustinasolaberrieta08@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/USUARIO/Downloads/AGUSTINA%20SOLABERRIETA.pdf](file:///C:/Users/USUARIO/Downloads/AGUSTINA%20SOLABERRIETA.pdf)
+- 📄 Know about my experiences **file:///C:/Users/USUARIO/Downloads/AGUSTINA%20SOLABERRIETA.pdf](file:///C:/Users/USUARIO/Downloads/AGUSTINA%20SOLABERRIETA.pdf**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
