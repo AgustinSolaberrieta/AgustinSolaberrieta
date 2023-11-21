@@ -2,23 +2,19 @@
 <h1 align="center">Hi 👋, I'm Agustina Solaberrieta</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
--🚀 ¿Quién soy?
-Soy Agustinba Solaberrieta, un joven de 18 años apasionado por el desarrollo web. Recientemente me gradué como Desarrollador Full Stack, marcando un giro emocionante en mi trayectoria, ya que inicialmente exploré diversas áreas antes de sumergirme en el fascinante mundo de la tecnología.
-
-🚀 ¿Cuál es mi profesión?
-Me desempeño como Desarrollador web Full Stack, destacando en el desarrollo tanto del frontend como del backend. Mi dominio de tecnologías como JavaScript, React, Node.js y MySQL me permite abordar proyectos desafiantes con creatividad y eficiencia.
-
-🚀 ¿Qué servicios ofrezco?
-Ofrezco servicios especializados en el desarrollo Frontend, proporcionando soluciones visuales y funcionales de alta calidad para aplicaciones web. Desde la creación de interfaces de usuario cautivadoras hasta la implementación de experiencias intuitivas, utilizo tecnologías líderes como JavaScript y React, junto con otras herramientas del ecosistema Frontend.
-
-🚀 ¿Cuál es mi objetivo laboral?
-Mi meta profesional es continuar creciendo como desarrollador web Frontend, colaborando en proyectos desafiantes que me permitan aplicar y expandir mis habilidades técnicas. Mi aspiración es mantenerme actualizado con las últimas tendencias en tecnologías Frontend, con el fin de crear experiencias de usuario excepcionales que dejen una marca positiva en cada proyecto en el que participe.
 - 💬 Ask me about **React, Redux, JavaScript,PgAdmin**
 
 - 📫 How to reach me **agustinasolaberrieta08@gmail.com**
 
 - 📄 Know about my experiences **file:///C:/Users/USUARIO/Downloads/AGUSTINA%20SOLABERRIETA.pdf](file:///C:/Users/USUARIO/Downloads/AGUSTINA%20SOLABERRIETA.pdf**
-- 
+- ## Professional Goals
+
+My aim is to continue growing as a Frontend Web Developer, contributing to challenging projects and expanding my technical skills. I strive to stay updated on the latest trends in Frontend technologies to create exceptional user experiences.
+
+## Services
+
+I provide specialized services in Frontend development, ensuring visually appealing and functional solutions for web applications.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
